@@ -1,0 +1,2 @@
+Kad se stisne enter, izbaci exception:Index out of Bounds expception.
+Kad se EXIT napise velikim slovima, ispise error.
